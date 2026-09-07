@@ -1,0 +1,38 @@
+# MAPA — Programação Orientada a Objetos (POO)
+
+Repositório acadêmico desenvolvido para a entrega da atividade MAPA da disciplina de **Programação Orientada a Objetos**, utilizando a linguagem **Java**.
+
+---
+
+## 📌 Sobre o Projeto
+O sistema foi modelado aplicando os pilares fundamentais da Orientação a Objetos para estruturar classes acadêmicas (Alunos, Professores e Pessoas). O projeto aborda os seguintes conceitos exigidos pela atividade:
+1. **Classes e Objetos**: Definição de atributos e criação de instâncias executáveis.
+2. **Encapsulamento**: Proteção de dados sensíveis utilizando modificadores de acesso (`private`) e métodos de acesso (`get`/`set`).
+3. **Herança**: Reutilização de código através de uma superclasse comum (`Pessoa`).
+4. **Polimorfismo**: Sobrescrita de métodos (`@Override`) para comportamentos dinâmicos e customizados nas subclasses.
+5. **Interfaces**: Implementação de contratos de comportamento (ex: regras de avaliação).
+
+---
+
+## 📂 Estrutura de Arquivos
+O código-fonte está organizado nas respectivas classes que compõem cada etapa da atividade:
+* `Pessoa.java` — Superclasse base.
+* `Aluno.java` — Classe derivada / modelagem do estudante.
+* `Professor.java` — Classe derivada / modelagem do docente.
+* `Principal.java` (ou arquivos correspondentes com métodos `main`) — Classes de execução e testes.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagem:** Java (JDK 11 ou superior)
+* **Ambiente de Desenvolvimento (IDE):** Eclipse / IntelliJ IDEA / NetBeans
+
+---
+
+## ▶️ Como Executar
+1. Clone este repositório ou faça o download dos arquivos em `.zip`.
+2. Importe o projeto em sua IDE Java de preferência.
+3. Localize a classe principal contendo o método executável (`public static void main`) e execute o programa para visualizar os resultados no console.
+
+---
+*Desenvolvido por **[Seu Nome Completo]** | RA: [Seu RA]*
