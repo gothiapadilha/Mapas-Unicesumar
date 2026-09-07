@@ -1,0 +1,64 @@
+# ⭐ Caça Estrelas 3D
+
+Projeto acadêmico de desenvolvimento de um jogo 3D com mecânicas de coleta, pontuação, registro de partidas e ranking de jogadores.
+
+## 🎯 Objetivo
+
+Desenvolver um jogo no qual o jogador possa realizar login, participar de uma partida, coletar estrelas/moedas e ter seus resultados registrados para consulta posterior.
+
+## 🕹️ Funcionamento
+
+O projeto contempla:
+
+* Sistema de login do jogador;
+* Coleta de estrelas/moedas durante a partida;
+* Registro da pontuação;
+* Registro do tempo de jogo;
+* Armazenamento das informações dos jogadores;
+* Armazenamento das partidas realizadas;
+* Consulta dos resultados;
+* Ranking com os 5 melhores jogadores.
+
+## 🗄️ Banco de dados
+
+O projeto utiliza um banco de dados denominado `Jogo`, organizado principalmente nas tabelas:
+
+* `Jogadores`
+* `Partidas`
+
+Ao final da partida, informações do jogo são registradas para possibilitar consultas e composição do ranking.
+
+## 🔎 SQL
+
+Uma das partes relevantes do projeto é a utilização de consulta SQL para ordenar os resultados e identificar os melhores desempenhos.
+
+Isso demonstra a aplicação prática de:
+
+* Banco de dados;
+* SQL;
+* Organização de dados;
+* Consultas e ordenação de resultados.
+
+## 🧠 Competências demonstradas
+
+* Lógica de programação;
+* Desenvolvimento de jogos;
+* Integração de um projeto com banco de dados;
+* SQL;
+* Organização de informações;
+* Implementação de sistema de pontuação e ranking.
+
+## 📚 Contexto
+
+Projeto desenvolvido durante a formação em Desenvolvimento de Jogos Digitais na UniCesumar.
+
+> **Observação:** este README descreve somente as características comprovadas na documentação acadêmica disponível. Tecnologias específicas de implementação que não estejam explicitadas na documentação não são atribuídas ao projeto.
+
+## 👤 Autor
+
+**Thiago Padilha**
+
+📍 Florianópolis, SC
+
+* LinkedIn: https://www.linkedin.com/in/thiago-padilha-839781211/
+* GitHub: https://github.com/gothiapadilha
